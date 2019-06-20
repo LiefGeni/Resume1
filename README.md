@@ -2,10 +2,10 @@ Resume-it
 ======
 
 一个灵活的数据模板分离的在线简历生成器。
-效果：https://LiefGeni.github.io/Resume/dist/index.html
+效果：https://LiefGeni.github.io/Resume
 如果喜欢的话请给个star ^_^
 
-![resume](D:\GIT_KU\Resume\resume.jpg)
+![resume](resume.jpg)
 
 Node version v10.15.0
 
