@@ -15,7 +15,7 @@ blog: https://blog.csdn.net/qq_27674439
 github: https://LiefGeni.github.io    
 online: https://LiefGeni.github.io/Resume
 
-apply_to_position: Web前端工程师
+apply_to_position: 前端开发工程师
 description: 
   性格积极乐观，待人友好，具有较强的沟通能力和抗压能力。对待工作认真热情，有责任心，爱编程，有良好的学习能力，喜欢钻研新技术，乐于实践，喜欢在实际问题中发现问题，并通过写作来总结问题，能折腾，喜欢在实践中学习，在不断的跳坑脱坑中进步。希望在工作中能应用到自己所学的东西，跟产品一同成长。
 contact: # 联系方式
@@ -147,7 +147,7 @@ skill: # 技能清单
       -
         des: !!md |
           小程序制作 ★★
-          可以独立进行小程序开发，熟悉AAAA、BBB、CCCC相关API或组件的使用。
+          可以独立进行小程序开发，熟悉相关API或组件的使用。
       -
         des: !!md |
           Vue ★★★★
